@@ -1,4 +1,4 @@
-# 🎈 Blank app template
+# 🎈 Network Optimization
 
 A simple Streamlit app template for you to modify!
 
